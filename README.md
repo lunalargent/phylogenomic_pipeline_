@@ -1,2 +1,1 @@
-# phylogenomic_pipeline_BB485
-github repository made for BB 485
+# phylogenomic_pipeline_
