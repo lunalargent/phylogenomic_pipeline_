@@ -55,5 +55,5 @@ output_pdf = "OUTPUT_phylogenetic_tree.pdf"
 plt.savefig(output_pdf)
 
 6. To further analyze the tree's topology, the Phylo program through Biopython can be used, such as
-with tree.find_elements(comments=<>), which allows for the find of clades including specific elements.
+with tree.find_elements(comments=<>), which allows for the finding of clades including specific elements.
 '''
